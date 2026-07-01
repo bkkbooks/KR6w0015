@@ -1,0 +1,213 @@
+canonical_identifier: bkk:krp/KR6w0015/v1
+canonical_location: https://kanripo.org/bkk/KR6w0015/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 梵網古跡抄
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D15/D15n8853.xml
+    old_id: D15n8853
+  edition:
+    short: bkk
+editions:
+- short: 國圖
+  label: 國圖
+  source_xml_id: wit.orig
+- short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0015_000.yaml, hash: 'sha256:aec9e57e027f165eef492e72f6bb5ef549f8a46734351bb71e98353c948081c1'}
+  - {seq: 1, filename: KR6w0015_001.yaml, hash: 'sha256:e4741e4d532fc3a9ec8bb88e1bfe0b02f06eb0fea85740bf361fb538a596fdfe'}
+  - {seq: 2, filename: KR6w0015_002.yaml, hash: 'sha256:b746ed212903ae3aad893b23b2347988005fc3ee953dc18806d294a8d50d6632'}
+  - {seq: 3, filename: KR6w0015_003.yaml, hash: 'sha256:5a654f6057094921d318fe727f7fd60dd7e2ac6b7febfe151da4f62c54dad8b5'}
+  - {seq: 4, filename: KR6w0015_004.yaml, hash: 'sha256:15cbaf9963b379e34647ab6bc33bb0b27a92fc5915126789e523a0c2ffc3dee4'}
+  - {seq: 5, filename: KR6w0015_005.yaml, hash: 'sha256:c20620894cb61cb542e641a579dcf811bb8883ff67bff03da3a9a7e9dd276d61'}
+  - {seq: 6, filename: KR6w0015_006.yaml, hash: 'sha256:3074d5c37f4bb1896ca853d7ffc157f534f2d6f5a54236a59e298767fc3b45e5'}
+  - {seq: 7, filename: KR6w0015_007.yaml, hash: 'sha256:a0475158271be56e502cc84655b220624d22c55bc9c96e5388bffbbc4e37e344'}
+  - {seq: 8, filename: KR6w0015_008.yaml, hash: 'sha256:d7e2dc2ee89e38a4ff5acb55a85c29ead43ff5fb027be8813b330baec76243b5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6w0015_001.markers.yaml, hash: 'sha256:59b8740c3888ea3c8a396918ecb067c45d883abe6b9d90d09de06e5d49e015ad'}
+  - {seq: 2, role: markers, filename: assets/KR6w0015_002.markers.yaml, hash: 'sha256:43b7216c5de47d6b209b52f04a92e3d72ea41c317c0f2a29da33623dbd1f518f'}
+  - {seq: 3, role: markers, filename: assets/KR6w0015_003.markers.yaml, hash: 'sha256:eec4cbb1de5afd7268d19ae2e1d32608c7cf8f0a56e0681a346b3e19a05f886a'}
+  - {seq: 4, role: markers, filename: assets/KR6w0015_004.markers.yaml, hash: 'sha256:d44bb17976e459cd9ab601d76a781f2d9fac45069b4ac41eb3e571ccd2b49ecc'}
+  - {seq: 5, role: markers, filename: assets/KR6w0015_005.markers.yaml, hash: 'sha256:1770f0258190823feead8543e7d472eab3708573f2e1a37474a632343bc7a82c'}
+  - {seq: 6, role: markers, filename: assets/KR6w0015_006.markers.yaml, hash: 'sha256:f6d0168b7d97b1eb2fb3495374da71dc8640533406b9a88b87f02f7a1b279543'}
+  - {seq: 7, role: markers, filename: assets/KR6w0015_007.markers.yaml, hash: 'sha256:450ae1ef50ea89f50a704808a338e8097063d3def96ec6295829902d08ee49d6'}
+  - {seq: 8, role: markers, filename: assets/KR6w0015_008.markers.yaml, hash: 'sha256:4d62f4f735e77be6b8647c38f6aecad5c39b38fdae190f4786b8de9f746f4a3b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6w0015_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 20492
+  label: 梵網古迹抄第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0015_D_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 七門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0015_D_001-mulu-2
+    span:
+    - body
+    - 21
+    - 21
+  label: 引言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0015_D_001-mulu-3
+    span:
+    - body
+    - 97
+    - 97
+  label: 第一時處故
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0015_D_001-mulu-4
+    span:
+    - body
+    - 1341
+    - 1341
+  label: 第二機根故
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0015_D_001-mulu-5
+    span:
+    - body
+    - 1413
+    - 1413
+  label: 第三藏攝故
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0015_D_001-mulu-6
+    span:
+    - body
+    - 1723
+    - 1723
+  label: 第四翻譯故
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0015_D_001-mulu-7
+    span:
+    - body
+    - 1990
+    - 1990
+  label: 第五宗趣故
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0015_D_001-mulu-8
+    span:
+    - body
+    - 2267
+    - 2267
+  label: 第六題名故
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0015_D_001-mulu-9
+    span:
+    - body
+    - 3673
+    - 3673
+  label: 第七本文故
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0015_D_002-juan-start
+    span:
+    - body
+    - 0
+    - 22527
+  label: 梵網古迹抄第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0015_D_003-juan-start
+    span:
+    - body
+    - 0
+    - 22710
+  label: 梵網古迹抄第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6w0015_D_004-juan-start
+    span:
+    - body
+    - 0
+    - 22713
+  label: 梵網古迹抄第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0015_D_005-juan-start
+    span:
+    - body
+    - 0
+    - 15497
+  label: 古迹抄第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6w0015_D_006-juan-start
+    span:
+    - body
+    - 0
+    - 22460
+  label: 梵網古迹抄第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6w0015_D_007-juan-start
+    span:
+    - body
+    - 0
+    - 18930
+  label: 梵網古迹抄第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6w0015_D_008-juan-start
+    span:
+    - body
+    - 0
+    - 12128
+  label: 梵網古迹抄第八
+  type: juan
+  level: 1
+hash: sha256:bf5a8e0cbd4e4b670581d160dd08c5f1fa2565b3180131530de234350ae07ce5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

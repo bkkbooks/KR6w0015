@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6w0015/d/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵網古跡抄
+  edition:
+    short: d
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D15/D15n8853.xml
+    old_id: D15n8853
+hash: sha256:aec9e57e027f165eef492e72f6bb5ef549f8a46734351bb71e98353c948081c1
